@@ -4,7 +4,7 @@ import { useState } from "react";
 
 // EDITABLE CONTENT — update text, prices and links here.
 const content = {
-  phone: "+1 301 383 5022",
+  phone: "301-383-5022",
   phoneLink: "tel:+13013835022",
   email: "myp.skinandbody@gmail.com",
   address: "3454 Ellicott Center Dr, Suite 104",
