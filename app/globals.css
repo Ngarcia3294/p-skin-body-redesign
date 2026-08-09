@@ -281,7 +281,7 @@ em {
 
 .hero-visual {
   display: block;
-  width: 60%;
+  width: 300%;
   height: 850px;
   min-height: 0;
   object-fit: cover;
