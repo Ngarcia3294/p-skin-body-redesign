@@ -310,7 +310,7 @@ export default function Home() {
 
         <img
           className="offer-image"
-          src="/images/promotion.webp"
+          src="/images/promotion.png"
           alt="Pregnancy spa ritual"
         />
       </section>
