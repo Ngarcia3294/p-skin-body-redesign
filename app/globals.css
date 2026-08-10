@@ -936,3 +936,16 @@ body {
     object-position: center;
   }
 }
+.imagen-esteticista {
+  display: block;
+  width: 100%;
+  max-width: 500px;
+  height: auto;
+  margin: 0 auto;
+}
+@media (max-width: 600px) {
+  .imagen-esteticista {
+    width: 85%;
+    max-width: 320px;
+  }
+}
