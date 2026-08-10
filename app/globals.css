@@ -945,7 +945,7 @@ body {
 }
 @media (max-width: 600px) {
   .imagen-esteticista {
-    width: 85%;
-    max-width: 320px;
+    width: 50%;
+    max-width: 220px;
   }
 }
